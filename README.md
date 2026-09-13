@@ -9,14 +9,16 @@ Junior QA / Test Automation role.
 - **bug-reports/** — real bugs found and documented on live sites,
   following a structured format (Environment, Steps to Reproduce,
   Actual/Expected Result, Severity, Evidence)
-- **notes/** — deeper investigations (e.g. API authentication behavior)
+- **notes/** — deeper investigations and concept notes (API
+  authentication behavior, Bearer Token mechanics, 401 vs 403)
 - **postman-collections/** — exported Postman collections used during
   API investigations
 - **sql-scripts/** — SQL practice covering JOINs, aggregation, and data
   integrity validation queries
 - **test-cases/** — worked examples of formal ISTQB test design
   techniques (Equivalence Partitioning, Boundary Value Analysis,
-  Decision Tables, State Transition Testing)
+  Decision Tables, State Transition Testing) and locator strategy
+  examples for test automation (CSS Selectors, XPath, data-testid)
 
 ## Workflow
 
